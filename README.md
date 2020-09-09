@@ -1,1 +1,1 @@
-# -Mini-Curso-Criando-um-To-Do-list-com-ReactJS
+# [Mini Curso] Criando um To-Do list com ReactJS
