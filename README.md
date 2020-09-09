@@ -1,6 +1,8 @@
 # [Mini Curso] Criando um To-Do list com ReactJS
 
-Nesse mini curso vou ensinar a criar uma aplicação To-do list com ReactJS - Iniciantes
+Neste mini curso vou ensinar a criar uma aplicação To-do list com ReactJS
+
+* Nível iniciante
 
 # Referências
 
